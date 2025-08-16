@@ -1,0 +1,13 @@
+# Server runtime files
+server/.venv/
+server/server.log
+server/.uvicorn.pid
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+*.tmp
+.DS_Store
